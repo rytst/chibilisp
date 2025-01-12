@@ -1,2 +1,2 @@
 # chibilisp
-![Build Your Own Lisp](https://www.buildyourownlisp.com/)
+[Build Your Own Lisp](https://www.buildyourownlisp.com/)
