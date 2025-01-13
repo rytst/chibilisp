@@ -7,6 +7,6 @@ chibilisp: $(OBJS)
 	$(CC) -ledit -o chibilisp $(OBJS) $(LDFLAGS)
 
 clean:
-	rm -f chibilisp *.o *~
+	rm -f chibilisp *.o *.out *~
 
 .PHONY: clean
